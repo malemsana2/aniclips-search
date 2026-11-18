@@ -1,0 +1,226 @@
+{
+  "last_update": "2026-11-18T15:35:28.984Z",
+  "current_hash": "f32b21e2",
+  "featured": [
+    {
+      "id": 204,
+      "slug": "your_name",
+      "name": "your_name",
+      "title": "Your Name",
+      "title_english": "Your Name",
+      "title_japanese": "Your Name",
+      "poster_url": "https://m.media-amazon.com/images/I/91ckLZfJiBL._SL1500_.jpg",
+      "description": "Your Name (Kimi no Na Wa) is a critically acclaimed 2016 anime film directed by Makoto Shinkai. It is a sci-fi, romantic fantasy about two teenagers—a rural girl and a Tokyo city boy—who mysteriously swap bodies in their sleep and must race against time and a cosmic disaster to save each other.",
+      "is_featured": true
+    },
+    {
+      "id": 187,
+      "slug": "x_tv_",
+      "name": "x_tv_",
+      "title": "Blue Lock S1",
+      "title_english": "X (TV)",
+      "title_japanese": "X (TV)",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWFlNmJkN2YtNGRiZS00NjExLTlmNmEtYzdiMTdiZmMzYzAwXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+      "description": "",
+      "is_featured": true
+    },
+    {
+      "id": 110,
+      "slug": "attack_on_titan",
+      "name": "attack_on_titan",
+      "title": "Attack on Titan",
+      "title_english": "Attack on Titan",
+      "title_japanese": "Shingeki no Kyojin",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg",
+      "description": "",
+      "is_featured": true
+    },
+    {
+      "id": 101,
+      "slug": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+      "name": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+      "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+      "title_english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+      "title_japanese": "Kimetsu no Yaiba: Hashira Geiko-hen",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png",
+      "description": "",
+      "is_featured": true
+    },
+    {
+      "id": 77,
+      "slug": "jujutsu_kaisen_season_2",
+      "name": "jujutsu_kaisen_season_2",
+      "title": "JUJUTSU KAISEN Season 2",
+      "title_english": "JUJUTSU KAISEN Season 2",
+      "title_japanese": "Jujutsu Kaisen 2nd Season",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-hSNRJM03pvv1.jpg",
+      "description": "",
+      "is_featured": true
+    }
+  ],
+  "trending": [
+    {
+      "id": 77,
+      "slug": "jujutsu_kaisen_season_2",
+      "name": "jujutsu_kaisen_season_2",
+      "title": "JUJUTSU KAISEN Season 2",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-hSNRJM03pvv1.jpg",
+      "score": 482176
+    },
+    {
+      "id": 140,
+      "slug": "demon_slayer_kimetsu_no_yaiba_infinity_castle",
+      "name": "demon_slayer_kimetsu_no_yaiba_infinity_castle",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178788-zm3gtpB9TpRt.jpg",
+      "score": 305251
+    },
+    {
+      "id": 78,
+      "slug": "jujutsu_kaisen_season_3_the_culling_game_part_1",
+      "name": "jujutsu_kaisen_season_3_the_culling_game_part_1",
+      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
+      "score": 216179
+    },
+    {
+      "id": 75,
+      "slug": "jujutsu_kaisen",
+      "name": "jujutsu_kaisen",
+      "title": "JUJUTSU KAISEN",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
+      "score": 204589
+    },
+    {
+      "id": 69,
+      "slug": "solo_leveling_season_2_arise_from_the_shadow_",
+      "name": "solo_leveling_season_2_arise_from_the_shadow_",
+      "title": "Solo Leveling Season 2 -Arise from the Shadow-",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png",
+      "score": 136628
+    },
+    {
+      "id": 101,
+      "slug": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+      "name": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+      "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png",
+      "score": 132659
+    },
+    {
+      "id": 4,
+      "slug": "the_fragrant_flower_blooms_with_dignity",
+      "name": "the_fragrant_flower_blooms_with_dignity",
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181444-Ut9DDUZdfHwg.jpg",
+      "score": 125557
+    }
+  ],
+  "recent": [
+    {
+      "id": 23,
+      "slug": "horimiya",
+      "name": "horimiya",
+      "title": "Horimiya",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-3i22mRVPBS0T.jpg"
+    },
+    {
+      "id": 40,
+      "slug": "hyouka",
+      "name": "hyouka",
+      "title": "Hyouka",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-zj5AWUYO53Fv.jpg"
+    },
+    {
+      "id": 253,
+      "slug": "sentenced_to_be_a_hero",
+      "name": "sentenced_to_be_a_hero",
+      "title": "Sentenced to Be a Hero",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-O1pm6DWwifBD.jpg"
+    },
+    {
+      "id": 245,
+      "slug": "dr_stone_s02",
+      "name": "dr_stone_s02",
+      "title": "Dr. STONE S02",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113936-D4eYd4XwslVI.jpg"
+    },
+    {
+      "id": 254,
+      "slug": "bleach_thousand_year_blood_war_the_conflict",
+      "name": "bleach_thousand_year_blood_war_the_conflict",
+      "title": "BLEACH: Thousand-Year Blood War - The Conflict",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169755-Rqb7MjnzdTc6.jpg"
+    },
+    {
+      "id": 221,
+      "slug": "jojo_s_bizarre_adventure_stone_ocean",
+      "name": "jojo_s_bizarre_adventure_stone_ocean",
+      "title": "JoJo's Bizarre Adventure: STONE OCEAN",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131942-rermlZ9lplHX.png"
+    },
+    {
+      "id": 251,
+      "slug": "attack_on_titan_final_season_part_1",
+      "name": "attack_on_titan_final_season_part_1",
+      "title": "Attack on Titan Final Season Part 1",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg"
+    },
+    {
+      "id": 250,
+      "slug": "classroom_of_the_elite_4th_season_second_year_first_semester",
+      "name": "classroom_of_the_elite_4th_season_second_year_first_semester",
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
+    },
+    {
+      "id": 227,
+      "slug": "my_hero_academia_season_5",
+      "name": "my_hero_academia_season_5",
+      "title": "My Hero Academia Season 5",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117193-E75BlZmDh1aB.jpg"
+    },
+    {
+      "id": 246,
+      "slug": "prison_school",
+      "name": "prison_school",
+      "title": "Prison School",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20807-8nFoO0AUdGsy.jpg"
+    },
+    {
+      "id": 248,
+      "slug": "i_want_to_end_this_love_game",
+      "name": "i_want_to_end_this_love_game",
+      "title": "I Want to End this Love Game",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+    },
+    {
+      "id": 244,
+      "slug": "dr_stone",
+      "name": "dr_stone",
+      "title": "Dr. STONE",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-GybuoSoOZfpH.jpg"
+    },
+    {
+      "id": 243,
+      "slug": "a_silent_voice",
+      "name": "a_silent_voice",
+      "title": "A Silent Voice",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg"
+    },
+    {
+      "id": 242,
+      "slug": "jojo_s_bizarre_adventure_stone_ocean_part_2",
+      "name": "jojo_s_bizarre_adventure_stone_ocean_part_2",
+      "title": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg"
+    },
+    {
+      "id": 240,
+      "slug": "clevatess_s01",
+      "name": "clevatess_s01",
+      "title": "Clevatess S01",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPwoz5IzHqS1wWSfxC1sdXYnfmc_HBsGPONs3SS9biw&s=10"
+    }
+  ]
+}
