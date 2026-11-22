@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-22T03:12:03.151Z",
-  "current_hash": "f5e6240e",
+  "last_update": "2026-11-22T06:09:05.620Z",
+  "current_hash": "fc550259",
   "featured": [
     {
       "id": 263,
@@ -118,6 +118,13 @@
   ],
   "recent": [
     {
+      "id": 264,
+      "slug": "rascal_does_not_dream_of_bunny_girl_senpai",
+      "name": "rascal_does_not_dream_of_bunny_girl_senpai",
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-wfEdgPqtfU0l.jpg"
+    },
+    {
       "id": 263,
       "slug": "the_ghost_in_the_shell",
       "name": "the_ghost_in_the_shell",
@@ -214,13 +221,6 @@
       "name": "a_silent_voice",
       "title": "A Silent Voice",
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg"
-    },
-    {
-      "id": 242,
-      "slug": "jojo_s_bizarre_adventure_stone_ocean_part_2",
-      "name": "jojo_s_bizarre_adventure_stone_ocean_part_2",
-      "title": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
-      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg"
     }
   ]
 }
