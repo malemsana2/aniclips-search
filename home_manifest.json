@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-23T07:07:56.876Z",
-  "current_hash": "75e7613e",
+  "last_update": "2026-11-23T11:25:17.132Z",
+  "current_hash": "dcd5a104",
   "featured": [
     {
       "id": 263,
@@ -118,6 +118,13 @@
   ],
   "recent": [
     {
+      "id": 266,
+      "slug": "bleach_thousand_year_blood_war_the_calamity",
+      "name": "bleach_thousand_year_blood_war_the_calamity",
+      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+    },
+    {
       "id": 264,
       "slug": "rascal_does_not_dream_of_bunny_girl_senpai",
       "name": "rascal_does_not_dream_of_bunny_girl_senpai",
@@ -214,13 +221,6 @@
       "name": "dr_stone",
       "title": "Dr. STONE",
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-GybuoSoOZfpH.jpg"
-    },
-    {
-      "id": 243,
-      "slug": "a_silent_voice",
-      "name": "a_silent_voice",
-      "title": "A Silent Voice",
-      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg"
     }
   ]
 }
