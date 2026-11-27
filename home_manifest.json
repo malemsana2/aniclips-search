@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-27T09:26:29.005Z",
-  "current_hash": "917916ba",
+  "last_update": "2026-11-27T10:35:59.377Z",
+  "current_hash": "0f68eec0",
   "featured": [
     {
       "id": 266,
@@ -118,6 +118,13 @@
   ],
   "recent": [
     {
+      "id": 273,
+      "slug": "super_cube",
+      "name": "super_cube",
+      "title": "Super Cube",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166442-JTkdzIQpgf8M.jpg"
+    },
+    {
       "id": 266,
       "slug": "bleach_thousand_year_blood_war_the_calamity",
       "name": "bleach_thousand_year_blood_war_the_calamity",
@@ -214,13 +221,6 @@
       "name": "i_want_to_end_this_love_game",
       "title": "I Want to End this Love Game",
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-    },
-    {
-      "id": 244,
-      "slug": "dr_stone",
-      "name": "dr_stone",
-      "title": "Dr. STONE",
-      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-GybuoSoOZfpH.jpg"
     }
   ]
 }
